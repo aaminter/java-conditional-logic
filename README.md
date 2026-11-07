@@ -1,6 +1,6 @@
 # Java Conditional Logic
 
-![Java CI](https://github.com/aaminter/dz6/actions/workflows/ci.yml/badge.svg)
+![Java CI](https://github.com/aaminter/java-conditional-logic/actions/workflows/ci.yml/badge.svg)
 
 Учебные упражнения по условным операторам Java.
 
